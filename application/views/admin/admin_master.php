@@ -1,7 +1,3 @@
-<?php 
-  echo $_SERVER['HTTP_SELF'];
- ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
